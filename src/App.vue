@@ -26,5 +26,6 @@ export default {
   text-align: center;
   color: black;
   margin-top: 60px;
+  rotate: 180;
 }
 </style>
